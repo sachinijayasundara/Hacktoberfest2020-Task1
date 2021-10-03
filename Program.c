@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
-    char name,country,skill;
+    char name,country,skill,age;
     printf("Welcome to Hacktoberfest 2020\n");
     printf("Enter your name : ");//Get User name
     scanf("%d",&name);
